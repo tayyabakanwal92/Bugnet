@@ -1,0 +1,2 @@
+# Bugnet
+Multiple users are made using the admin account and everyone assigned to some of the projects to update according to the requirement, but when one of user sign in with their details, then on the home page all of the projects with complete detail is displaying while from admin account only one of the project is assigned to that particular user. Rather than assigned project to that particular user no other project should be displayed on that user homepage.
